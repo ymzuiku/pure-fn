@@ -1,9 +1,7 @@
-import 'src/assets/normal.css';
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from 'src/routers/App/App';
+import App from 'src/App';
 
 class Root extends React.Component {
   render() {
