@@ -1,17 +1,17 @@
 {
-  "name": "react-start-project",
-  "version": "0.0.1",
-  "description": "React Start Project",
+  "name": "pure-fn",
+  "version": "0.0.2",
+  "description": "pure-fn",
   "dependencies": {},
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ymzuiku/react-den-form.git"
+    "url": "git+https://github.com/ymzuiku/pure-fn.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ymzuiku/react-den-form/issues"
+    "url": "https://github.com/ymzuiku/pure-fn/issues"
   },
-  "homepage": "https://github.com/ymzuiku/react-den-form#readme"
+  "homepage": "https://github.com/ymzuiku/pure-fn#readme"
 }
