@@ -12,5 +12,5 @@ module.exports = {
     // "types": "src/index.d.ts",
     "dependencies": {},
   },
-  gitURL: 'github.com/ymzuiku/react-den-form',
+  gitURL: 'github.com/ymzuiku/pure-fn',
 };

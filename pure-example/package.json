@@ -1,7 +1,7 @@
 {
-  "name": "react-start-project",
+  "name": "pure-fn",
   "version": "0.0.1",
-  "description": "React Start Project",
+  "description": "pure-fn",
   "private": true,
   "scripts": {
     "reload-img": "auto-require-files src/assets index",
