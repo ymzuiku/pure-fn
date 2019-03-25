@@ -1,0 +1,17 @@
+{
+  "name": "react-start-project",
+  "version": "0.0.1",
+  "description": "React Start Project",
+  "dependencies": {},
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzuiku/react-den-form.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymzuiku/react-den-form/issues"
+  },
+  "homepage": "https://github.com/ymzuiku/react-den-form#readme"
+}
